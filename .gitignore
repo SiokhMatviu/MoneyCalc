@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Pycharm / VSCode
+.idea/
+.vscode/
+
+# Environment / config
+.env
+.env.*
+settings.py
+
+# Database / migrations
+*.sqlite3
+*.db
+*.log
+migrations/
+
+# Byte-compiled / caches
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage / testing
+htmlcov/
+.coverage
+*.cover
+.pytest_cache/
+.pytest_cache/*
+
+# FastAPI / Uvicorn
+*.db-journal
