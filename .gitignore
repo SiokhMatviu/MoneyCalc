@@ -15,7 +15,6 @@ env/
 # Environment / config
 .env
 .env.*
-settings.py
 
 # Database / migrations
 *.sqlite3
